@@ -2,9 +2,9 @@
 
 skrypt ten zaczerpnięty jest z artykułu https://medium.com/@calypsobronte/installing-docker-in-kali-linux-2018-1-ef3a8ce3648
 
-po ściągnięciu należy przejść do folderu docker_instaltor i wykonać komende
+po ściągnięciu należy przejść do folderu docker_instalator i wykonać komendę:
 
-chmod u+x docker_instalator.sh
+chmod u+x docker_instalator.sh (by umożliwić uruchamianie tego skryptu)
 
 a następnie uruchomić skrypt:
 
