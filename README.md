@@ -4,9 +4,9 @@ skrypt ten zaczerpnięty jest z artykułu https://medium.com/@calypsobronte/inst
 
 po ściągnięciu należy przejść do folderu docker_instalator i wykonać komendę:
 
-chmod u+x docker_instalator.sh (by umożliwić uruchamianie tego skryptu)
+sudo chmod u+x docker_instalator.sh (by umożliwić uruchamianie tego skryptu)
 
 a następnie uruchomić skrypt:
 
-./docker_instalator.sh
+sudo ./docker_instalator.sh
 
